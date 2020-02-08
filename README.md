@@ -20,7 +20,7 @@ I2C OLED-2864 screen(测试)
 * [Supported targets](#Supportedtargets)
 
 ## URL
-project URL: ```https://github.com/DFRobot/ext-oled12864```
+project URL: ```https://github.com/jeff111203/ext.MypythonBT0.3```
 
 ## Summary
 Support different drawings in the screen, including point, line, circle, rectangle, triangle,rounded rectangle and some commands.
