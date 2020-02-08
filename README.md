@@ -1,6 +1,6 @@
 # OLED
 
-I2C OLED-2864 screen(测试)
+掌控板蓝牙功能
 
 <img src="https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
 
